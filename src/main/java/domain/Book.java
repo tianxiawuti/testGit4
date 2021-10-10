@@ -6,6 +6,6 @@ package domain;
  */
 public class Book {
 
-    private String author;
+    private String author_remote;
 
 }
